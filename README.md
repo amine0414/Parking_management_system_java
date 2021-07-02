@@ -1,0 +1,2 @@
+# Parking_management_system_java
+après la connexion de l'administrateur, il peut ajouter de nouveaux véhicules et gérer les enregistrements de stationnement. l'administrateur ajoutera la marque, le modele et l'immatriculation de vehicule(voiture, moto ou camion) ceci est géré à l'aide d'une Jlist qui enregistre les enregistrements dans un fichier. ces informations pourraient être affichées dans une interface graphique avec différentes options (ajouter, supprimer, enregistrer, modifier, quitter)
